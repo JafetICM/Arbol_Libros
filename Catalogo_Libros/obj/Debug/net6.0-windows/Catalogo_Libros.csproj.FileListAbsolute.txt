@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\bin\Debug\net6.0-windows\Catalogo_Libros.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\bin\Debug\net6.0-windows\Catalogo_Libros.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\bin\Debug\net6.0-windows\Catalogo_Libros.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\bin\Debug\net6.0-windows\Catalogo_Libros.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\bin\Debug\net6.0-windows\Catalogo_Libros.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\obj\Debug\net6.0-windows\Catalogo_Libros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\obj\Debug\net6.0-windows\Catalogo_Libros.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\obj\Debug\net6.0-windows\Catalogo_Libros.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\obj\Debug\net6.0-windows\Catalogo_Libros.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\obj\Debug\net6.0-windows\Catalogo_Libros.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\obj\Debug\net6.0-windows\refint\Catalogo_Libros.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\obj\Debug\net6.0-windows\Catalogo_Libros.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\obj\Debug\net6.0-windows\Catalogo_Libros.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Catalogo_Libros\obj\Debug\net6.0-windows\ref\Catalogo_Libros.dll
